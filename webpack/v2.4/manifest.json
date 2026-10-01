@@ -1,0 +1,329 @@
+{
+  "project_id": "qingxu-shizun-v1",
+  "release_version": "2.4",
+  "runtime_canary": "qx1-73c9-lotus-free-2e84",
+  "attribution": "@popidesk原创，@louisHM二改，完全免费。",
+  "source_maps": false,
+  "files": [
+    {
+      "path": "assets/alchemy/beasts/chi-ling-fen-yuan.webp",
+      "bytes": 123600,
+      "sha256": "7ea8548607d912d72fb34ac345bd3f928a4547cd97c3678db2bb4ea133aea319"
+    },
+    {
+      "path": "assets/alchemy/beasts/dream-liu.webp",
+      "bytes": 239198,
+      "sha256": "f42c074149e514a89a32216d610a46580c356b875d8a32afec035a24d925b0c5"
+    },
+    {
+      "path": "assets/alchemy/beasts/liu-daughter.webp",
+      "bytes": 150490,
+      "sha256": "0b42b684977153d999712cefb8511f6b5e3990e79b14ecf676a10023780b6282"
+    },
+    {
+      "path": "assets/alchemy/beasts/mo-yu-long.webp",
+      "bytes": 556692,
+      "sha256": "53dd2097a73fc7c12980fa7865268160f7b298868abeb87141773c698c403467"
+    },
+    {
+      "path": "assets/alchemy/beasts/ta-wu-ling-lu.webp",
+      "bytes": 69458,
+      "sha256": "7fd48b0f2b9432da5f889ff6789aa6ebb0e6a4d351321144e89ed31db0819aa5"
+    },
+    {
+      "path": "assets/alchemy/beasts/wuxiang-mixed.webp",
+      "bytes": 814832,
+      "sha256": "08aa59d048ec703d1987f72467714131ae090e78b0f8e3ba62ec79a77143b462"
+    },
+    {
+      "path": "assets/alchemy/beasts/wuxiang-shen.webp",
+      "bytes": 261570,
+      "sha256": "58c2134676b5719e36006447ef8465198d43916a3694ac672964edbbe3ff0af3"
+    },
+    {
+      "path": "assets/alchemy/beasts/xuan-jia-yan-ni.webp",
+      "bytes": 113430,
+      "sha256": "c8fa0efbc937f59e2bb469c6acff40355f2eea67f1b890ad02c6f141c02cbe01"
+    },
+    {
+      "path": "assets/alchemy/brew-sprite.webp",
+      "bytes": 260998,
+      "sha256": "a17f86efcda7887708c6c7ddd57eee11996c78924674afeb37e6f01285fdfb44"
+    },
+    {
+      "path": "assets/alchemy/crop-stages.webp",
+      "bytes": 194602,
+      "sha256": "e2e8c5617477830cc2bfa7cb1a7a3f9ac9ac8f73d34ccd6a09ccfdade85d4ffe"
+    },
+    {
+      "path": "assets/alchemy/furnace-room.webp",
+      "bytes": 245822,
+      "sha256": "41e642b18714a2b814fec5f7388e0028df93272443b6682736418d39410dfb9c"
+    },
+    {
+      "path": "assets/alchemy/garden-four-plots.webp",
+      "bytes": 557246,
+      "sha256": "7da2af91c22886b069224547a71cd57b219d5221fc6152863ad220f6d9def6df"
+    },
+    {
+      "path": "assets/chibi/chu-lingshang.webp",
+      "bytes": 11010,
+      "sha256": "5c665e0f2fe415c0484821be9d2adda5c284ad46b9a183e629114e6d93fc6847"
+    },
+    {
+      "path": "assets/chibi/ji-yunning.webp",
+      "bytes": 11610,
+      "sha256": "8a19286508734f963d3916cd5d7f4f5419e50e7b6326fb13ea719dec37dfc6ff"
+    },
+    {
+      "path": "assets/chibi/lin-feng.webp",
+      "bytes": 12458,
+      "sha256": "a4ea340e3ce57df8dc98681c2a7fa7a53d7cf75f6aa3611ba3aff13bc45a7082"
+    },
+    {
+      "path": "assets/chibi/liu-sanbao.webp",
+      "bytes": 11044,
+      "sha256": "265d35c848a970a9c779b1f8450d085a5cd42c9577042ac0f53f62da331c490e"
+    },
+    {
+      "path": "assets/chibi/shen-qixue.webp",
+      "bytes": 11296,
+      "sha256": "027a65d3267eb27dd5c21f5824d3298aef9763402407d208166b8ee0dcb8c542"
+    },
+    {
+      "path": "assets/chibi/situ-wanqiu.webp",
+      "bytes": 12752,
+      "sha256": "52fd8a6f03e4a142728bd617e0422c451b2196405d68b88dbc919dfce867420b"
+    },
+    {
+      "path": "assets/chibi/situ-xia.webp",
+      "bytes": 11438,
+      "sha256": "5b7506a5623bec24d0c6b980907561f75086cb59fe96aa1ab3b24b168d78d52b"
+    },
+    {
+      "path": "assets/chibi/slave-xingli.webp",
+      "bytes": 31002,
+      "sha256": "9ada50e8bb5f8f7b7713cb09236cac7a7b85712881361f33ae706b228ec22d21"
+    },
+    {
+      "path": "assets/chibi/su-yanxi.webp",
+      "bytes": 12290,
+      "sha256": "a79ac1e1c1b3a5bb30612881c2a99cebb5a7c052a165da3f761354433965b6c1"
+    },
+    {
+      "path": "assets/chibi/yun-yuwei.webp",
+      "bytes": 10544,
+      "sha256": "ed0771932d82e894e0c74c4937dd22d23ad43cb5b6cd0ac485686a09571ac83a"
+    },
+    {
+      "path": "assets/locations/beast-grove-v2.3.webp",
+      "bytes": 171294,
+      "sha256": "291510fb91d1334b12b0a385458551047946bf72bd0448b8a65ea00f7148ee46"
+    },
+    {
+      "path": "assets/locations/cold-pool-board-v2.4-r13.webp",
+      "bytes": 151554,
+      "sha256": "4d09045027d6ab84d99f9284c2cb7423aa388e3c9401dabf2d6806b438d7e6ab"
+    },
+    {
+      "path": "assets/locations/danyaotang-semen-porridge-table-v1.webp",
+      "bytes": 298294,
+      "sha256": "eeb0fa17df99564bd45e35ce01aaa228c7af64b9692d2315cfe392e65dae29cd"
+    },
+    {
+      "path": "assets/locations/danyaotang.webp",
+      "bytes": 109486,
+      "sha256": "b33e31d8f191c088d1bd337e0b327af22625fafe5a31eefd528a0ead718729ee"
+    },
+    {
+      "path": "assets/locations/guanyunju.webp",
+      "bytes": 118044,
+      "sha256": "5fc75152c1c33fb463cc058a04a2291cdf843878da81dca42e15cad2b03c518a"
+    },
+    {
+      "path": "assets/locations/hantan-yuchi.webp",
+      "bytes": 152034,
+      "sha256": "d747f2c0a2c138baa7e2ca0f40947ca4cbdc446da1c0c9ff2f61a7e7d78b422a"
+    },
+    {
+      "path": "assets/locations/houshan-yaoyuan.webp",
+      "bytes": 201142,
+      "sha256": "cd64187fb1b97a733e3deedc33505e4bf6547f7953318c9f65350161e7cb50af"
+    },
+    {
+      "path": "assets/locations/jielvtang.webp",
+      "bytes": 93834,
+      "sha256": "ef9270c583d9b4a660ad144683c03e8aa08e7b0edad10ad08e2e22e94a0c916a"
+    },
+    {
+      "path": "assets/locations/kefang-maoce-grid-v1.webp",
+      "bytes": 475054,
+      "sha256": "633558d18a39b088ec64beba76f12750d2311ac5edcdce644ab292534111dc9d"
+    },
+    {
+      "path": "assets/locations/kefang-maoce.webp",
+      "bytes": 161382,
+      "sha256": "1d87a1d9e6aee5a40d7024f8fb36297caae24ad04c5fc345bddc5387ae2b992e"
+    },
+    {
+      "path": "assets/locations/kefang.webp",
+      "bytes": 80312,
+      "sha256": "6c2e8f8496b910e0c538a6a52b140035539990355e8563a22fe10c57f3f00ff8"
+    },
+    {
+      "path": "assets/locations/luoxuege.webp",
+      "bytes": 96818,
+      "sha256": "e404778138fb7107a915f445e8fa55b4442be49f1575b67cd923ee6f3d7a24c5"
+    },
+    {
+      "path": "assets/locations/neimen-dizi-ju.webp",
+      "bytes": 183850,
+      "sha256": "b0eb4ecdbe8f5c6544005a1ef33dce6b1cb3ecd8539bc77178ec6fd5f6a49aff"
+    },
+    {
+      "path": "assets/locations/phantom-summon-platform-v2.3.webp",
+      "bytes": 101222,
+      "sha256": "5d4d8b26af152ef840a7b9a1741b16d4c397b9c1dbb202ec2c00b28a4050811d"
+    },
+    {
+      "path": "assets/locations/qicao-gudong-v2.4-r16.webp",
+      "bytes": 272042,
+      "sha256": "5c4c0e01f02ec3a39a4539b48b8fc779c72cfbcf81ecc1c3cb9aa7249a61fb7a"
+    },
+    {
+      "path": "assets/locations/qingqiu-residence-v2.3.webp",
+      "bytes": 92722,
+      "sha256": "448808a62eda962497e9bd9f126bc1a08365bd8ec59e14d07e2b85093e6b1237"
+    },
+    {
+      "path": "assets/locations/shanmen.webp",
+      "bytes": 105916,
+      "sha256": "196f419a8a730473ac5f17ac8a1abf80203720dd049169b3854e88cfcef0b9ff"
+    },
+    {
+      "path": "assets/locations/taishang-residence-v2.3.webp",
+      "bytes": 124906,
+      "sha256": "608f59d675133652c3a33680f9bf2494a8577b00996b9340ef27d7fb146c77a0"
+    },
+    {
+      "path": "assets/locations/waimen-dizi-ju.webp",
+      "bytes": 180954,
+      "sha256": "c42ad3c19287254102de71aef9e007ee20f240db7cb62084dbe1cc520dc39d7a"
+    },
+    {
+      "path": "assets/locations/waimen-heishi.webp",
+      "bytes": 159818,
+      "sha256": "cbd9caca7e56f7e3e971daf5c0d72c9a630f303cb5a2e22a77147674eccaf1dc"
+    },
+    {
+      "path": "assets/locations/wanxiang-house-v2.3.webp",
+      "bytes": 115396,
+      "sha256": "8d495ea6d9460a90cdc0f7342e1475077cbc569a1dd944bbfe443d7d3d2d5c9b"
+    },
+    {
+      "path": "assets/locations/wanxiang-market-v2.3.webp",
+      "bytes": 112586,
+      "sha256": "a67914f3de18c11b5102878518587ca57bf379953963e6042786f6fed5107488"
+    },
+    {
+      "path": "assets/locations/wanxiang-slave-market-v2.3.webp",
+      "bytes": 310490,
+      "sha256": "f8683471763490ab12261357baf9e6072df9cee92fcd38cdf71708e773aaa64c"
+    },
+    {
+      "path": "assets/locations/yanwuchang.webp",
+      "bytes": 130920,
+      "sha256": "ec283b6cc4dd3edc270123dbba1de07e1227d8b939e14d1a1e539bda1a06aed4"
+    },
+    {
+      "path": "assets/locations/zhengxinju-v2.4-r16.webp",
+      "bytes": 238380,
+      "sha256": "d43cf62fa554305902be468672e8a902a050ee56664ee370044039eeb6530d70"
+    },
+    {
+      "path": "assets/locations/zuixiage.webp",
+      "bytes": 142970,
+      "sha256": "85d8f0eed48f0df511524e47090253698b83462180efaca393baef21375d5d97"
+    },
+    {
+      "path": "assets/market/clothing-icons.webp",
+      "bytes": 204304,
+      "sha256": "4dd844d8d6f405732ba3bd58bd2bca8fd94c05f7dc7e46facb01faba349751d3"
+    },
+    {
+      "path": "assets/pet/alisa-drag-v5.png",
+      "bytes": 43810,
+      "sha256": "b1bbbe3475520c157bbaae632f505c4e1f45a33b90088451f279c8a01933367d"
+    },
+    {
+      "path": "assets/pet/alisa-enter-v5.png",
+      "bytes": 94946,
+      "sha256": "7f24c3b49b9ad981ca08b216973ac622ae59c3ed723b700b2b40396563c73a56"
+    },
+    {
+      "path": "assets/pet/alisa-exit-v5.png",
+      "bytes": 94947,
+      "sha256": "8f5219d78d89819fa166757fddc76e346c71b2c30fd8d9bcca4f7f20cc0c89ce"
+    },
+    {
+      "path": "assets/pet/alisa-idle-v5.png",
+      "bytes": 75397,
+      "sha256": "b3552fa9ec87138a23fdcbcfadcb1ce6d675226cb6c22caa1080a9fa76fd03fc"
+    },
+    {
+      "path": "assets/pet/alisa-landing-v5.png",
+      "bytes": 252003,
+      "sha256": "824e188979ec69520719d6db4bfeddeec4e0beb26e3a0928bd45f70d95b8a303"
+    },
+    {
+      "path": "assets/pet/alisa-unique-a-v5.png",
+      "bytes": 75475,
+      "sha256": "e1d8ff7bed88054e8de9b73b2d5968466e36507c497e306db2424ad167473030"
+    },
+    {
+      "path": "assets/pet/alisa-unique-b-v5.png",
+      "bytes": 78610,
+      "sha256": "71554ddcb0559cdcf1311c517e46a86097b6b1d245a7434b526e21981dd96b18"
+    },
+    {
+      "path": "assets/phantom-demo/ji-yunshuang/chibi.png",
+      "bytes": 1687765,
+      "sha256": "5315340101e6d2b8a5b84c2010a8afdb635ac47be103b3a896beccc6b89ef623"
+    },
+    {
+      "path": "assets/phantom-demo/makima/chibi.png",
+      "bytes": 1210472,
+      "sha256": "5e0cd99899c4d78b56921084b617efc06b13920453a5e7d3f7e09e09741ded8f"
+    },
+    {
+      "path": "assets/phantom-demo/makima/normal-1.png",
+      "bytes": 1430211,
+      "sha256": "50e505d23beb6d567a6dea8e5e5119d78f31bcb4ec835e28ae4124ee34c8733e"
+    },
+    {
+      "path": "assets/technique-covers/dao.webp",
+      "bytes": 98592,
+      "sha256": "3106cbd94d83aa114cce8d7ea391d7f3a2856a5894e4154f7eb54145f70fc8f9"
+    },
+    {
+      "path": "assets/technique-covers/muzhu-baige.webp",
+      "bytes": 310960,
+      "sha256": "f8041a2c56e7c13b5ae185891d6a3c7ec67832a7afe1a2ec7b2bba55bf497afd"
+    },
+    {
+      "path": "assets/technique-covers/mystic.webp",
+      "bytes": 90630,
+      "sha256": "a243bc04ed41226b5600584a3905c1c145ffa049942c124cadf1c93b78cc7a84"
+    },
+    {
+      "path": "assets/technique-covers/sword.webp",
+      "bytes": 98474,
+      "sha256": "b80d5dc14132e9c22909a3564421009ac70808018938ebe39862cd83f4fde764"
+    },
+    {
+      "path": "qingxu.bundle.js",
+      "bytes": 5582697,
+      "sha256": "02e7801727f86ea717cc01a75210acd62d744bd75abf2121c674a953bb9ab39f"
+    }
+  ]
+}
