@@ -91,6 +91,11 @@
       "sha256": "027a65d3267eb27dd5c21f5824d3298aef9763402407d208166b8ee0dcb8c542"
     },
     {
+      "path": "assets/chibi/shen-zhao.webp",
+      "bytes": 7922,
+      "sha256": "3b8a1010afffea6ca8ce362d69995539b755e5a8995da878657a8304639d113a"
+    },
+    {
       "path": "assets/chibi/situ-wanqiu.webp",
       "bytes": 12752,
       "sha256": "52fd8a6f03e4a142728bd617e0422c451b2196405d68b88dbc919dfce867420b"
@@ -301,6 +306,11 @@
       "sha256": "50e505d23beb6d567a6dea8e5e5119d78f31bcb4ec835e28ae4124ee34c8733e"
     },
     {
+      "path": "assets/portraits/shen-zhao.webp",
+      "bytes": 22296,
+      "sha256": "5a5f680c533ad1229f761d5913b1ac32c3a4328227892540ed8e114fc5e5cf5c"
+    },
+    {
       "path": "assets/technique-covers/dao.webp",
       "bytes": 98592,
       "sha256": "3106cbd94d83aa114cce8d7ea391d7f3a2856a5894e4154f7eb54145f70fc8f9"
@@ -322,8 +332,12 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 5582697,
-      "sha256": "02e7801727f86ea717cc01a75210acd62d744bd75abf2121c674a953bb9ab39f"
+      "bytes": 5582292,
+      "sha256": "61c7c8cd7747cc1bcc428f0278ef2e9871cacabe4a6abbc1af3f1c7ac49ec8bc"
     }
-  ]
+  ],
+  "repair_revision": "v3.3-r12-NTL-repair-20261002-r1",
+  "real_sillytavern_verified": false,
+  "source_frontend_sha256": "96b76a0e432a55b32a952b3b0c13c7108bd2f15de0acbecb8973b9f93999ce1d",
+  "source_schedule_sha256": "c2ba1978d0546cc0fa0411b8a9a3cc23640880376261f38363802878175af87f"
 }
