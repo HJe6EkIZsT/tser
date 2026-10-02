@@ -332,12 +332,12 @@
     },
     {
       "path": "qingxu.bundle.js",
-      "bytes": 5585999,
-      "sha256": "074ec3e709d1b8b6d10e7d3bf762b50e50e375de9e45f2f68fd305f462c59867"
+      "bytes": 5586423,
+      "sha256": "2327e1faf3251362b584098dae6186157948d12fe148b3542f3f81fe2e6ef006"
     }
   ],
   "repair_revision": "v3.3-r12-NTL-repair-20261002-r9",
   "real_sillytavern_verified": false,
-  "source_frontend_sha256": "95e1d4f215087ae445b9c7ec02c9c1e3a0bdf8e6eae787703d59f776048c5628",
+  "source_frontend_sha256": "c2f1b4f0490058bc4e8503e72d3121eaa1343b1dde04acb8480ac4b9c9202b30",
   "source_schedule_sha256": "2d84c8c35392111b88a44c4fb3d867f50b563ab3914afdb9eb82985d66ecc069"
 }
